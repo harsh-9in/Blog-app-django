@@ -4,7 +4,7 @@ Django==3.1.12
 django-crispy-forms==1.9.2
 django-heroku==0.3.1
 gunicorn==20.0.4
-Pillow==8.2.0
+Pillow==8.3.2
 psycopg2==2.8.5
 pytz==2020.1
 sqlparse==0.3.1
